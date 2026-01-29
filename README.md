@@ -172,8 +172,8 @@ All design files available in `/docs/designs/` folder:
 
 **👤 Ali Ikram — Full‑Stack Developer**
 
-* 📧 Email: *info.aliikram123@gmail.com*
-* 🌐 Portfolio: *(http://aliikram.page.gd/)*
+* 📧 Email: *info.aliikram57@gmail.com*
+* 🌐 FirstProject: *(http://nationalcollege.edu.pk/)*
 
 ---
 
