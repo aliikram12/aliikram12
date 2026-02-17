@@ -173,7 +173,7 @@ All design files available in `/docs/designs/` folder:
 **👤 Ali Ikram — Full‑Stack Developer**
 
 * 📧 Email: *info.aliikram57@gmail.com*
-* 🌐 FirstProject: *(http://nationalcollege.edu.pk/)*
+* 🌐 Portfolio: *(http://aliikram.vercel.app/)*
 
 ---
 
