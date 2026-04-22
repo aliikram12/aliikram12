@@ -28,6 +28,23 @@
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
 
+# 🔥 Meet the Developer
+
+<p align="justify">
+  <img src="https://github.com/user-attachments/assets/d6dfadcb-2641-47ce-b0fe-668f9bf78b22" align="right" width="250" style="margin-left:15px; border-radius:12px;" />
+
+I'm <b>Ali Ikram</b> — a passionate <b>Full Stack Web Developer, UX/UI Designer, and AI/ML Engineer</b> focused on building modern, scalable, and visually engaging digital experiences.
+
+I specialize in crafting high-performance applications using technologies like <b>React, Node.js, Next.js, and modern frontend tools</b>, while also designing intuitive and user-friendly interfaces that enhance user experience.
+
+With a strong interest in <b>Artificial Intelligence & Machine Learning</b>, I continuously explore smart solutions that solve real-world problems and bring innovation into web development.
+
+  <br/><br/>
+  <b>🚀 Designing experiences. Developing solutions. Powering with AI 🚀</b>
+</p>
+
+<br clear="all"/>
+
 
 ## ⭐ **About Me**
 
