@@ -133,6 +133,5 @@ I am a **Full‑Stack Web Developer & Designer** with expertise in:
 </p>
 </p>
 
-![dev](https://github.com/user-attachments/assets/eb2f9fa4-8230-4a98-8444-f99c5b77456d)
 
 Just tell me — I will update everything professionally! 🚀
