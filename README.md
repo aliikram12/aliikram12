@@ -78,24 +78,17 @@ I am a **Full‑Stack Web Developer & Designer** with expertise in:
 
 ## 📊 GitHub Statistics
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=aliikram12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=aliikram12&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliikram12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliikram12&theme=tokyo-night&area=true&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aliikram12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=aliikram12&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliikram12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aliikram12&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
