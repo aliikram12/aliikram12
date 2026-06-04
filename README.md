@@ -68,41 +68,13 @@ I am a **Full‑Stack Web Developer & Designer** with expertise in:
 **👤 Ali Ikram — Full‑Stack Developer**
 
 * 📧 Email: *info.aliikram57@gmail.com*
-* 🌐 Portfolio: *http://aliikram.vercel.app*
+* 🌐 Portfolio: *http://alistack.vercel.app*
 
 ---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aliikram57) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alistackofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliikram57) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/info_ikram57) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alistackofficial ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.aliikram123@gmail.com) 
 
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=aliikram12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-</td>
-
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=aliikram12&theme=tokyonight&hide_border=true" />
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliikram12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</td>
-
-<td width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliikram12&theme=tokyo-night&hide_border=true&area=true" />
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
